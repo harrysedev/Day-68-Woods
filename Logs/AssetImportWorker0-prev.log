@@ -1,0 +1,904 @@
+Unity Editor version:    2021.3.8f1 (b30333d56e81)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.3 (Build 21E230)
+Darwin version:          21.4.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55480
+Successfully changed project path to: /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods
+/Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 134.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+ preferred device: Apple M1 Pro (high power)
+Metal devices available: 1
+0: Apple M1 Pro (high power)
+Using device Apple M1 Pro (high power)
+Initializing Metal device caps: Apple M1 Pro
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56745
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001849 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 109.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.043 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2045ms)
+		BeginReloadAssembly (193ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (3ms)
+		EndReloadAssembly (1543ms)
+			LoadAssemblies (193ms)
+			RebuildTransferFunctionScriptingTraits (2ms)
+			SetupTypeCache (159ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (1056ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (37ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (110ms)
+				BeforeProcessingInitializeOnLoad (5ms)
+				ProcessInitializeOnLoadAttributes (674ms)
+				ProcessInitializeOnLoadMethodAttributes (229ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006568 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.892 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2896ms)
+		BeginReloadAssembly (307ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (51ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (2241ms)
+			LoadAssemblies (161ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (384ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (1403ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (22ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (148ms)
+				ProcessInitializeOnLoadAttributes (1097ms)
+				ProcessInitializeOnLoadMethodAttributes (133ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.44 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3381 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (94.4 KB). Loaded Objects now: 3838.
+Memory consumption went from 229.9 MB to 229.8 MB.
+Total: 4.031583 ms (FindLiveObjects: 0.234375 ms CreateObjectMapping: 0.082750 ms MarkObjects: 3.420958 ms  DeleteObjects: 0.292125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2007465.182483 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS
+  artifactKey: Guid(c2ed46dd678d847c8b70d779a6640777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS using Guid(c2ed46dd678d847c8b70d779a6640777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19034abe99425816f6e32ac9060a9ca8') in 0.009367 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006286 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.434 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3439ms)
+		BeginReloadAssembly (614ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (57ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (169ms)
+		EndReloadAssembly (2536ms)
+			LoadAssemblies (294ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (409ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1646ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (40ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (140ms)
+				ProcessInitializeOnLoadAttributes (1289ms)
+				ProcessInitializeOnLoadMethodAttributes (174ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (70.9 KB). Loaded Objects now: 3842.
+Memory consumption went from 229.8 MB to 229.8 MB.
+Total: 3.344125 ms (FindLiveObjects: 0.242875 ms CreateObjectMapping: 0.089875 ms MarkObjects: 2.879375 ms  DeleteObjects: 0.130666 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 164.099806 seconds.
+  path: Assets/Blink/Art
+  artifactKey: Guid(0422de34c52725f4689f347e9988b62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art using Guid(0422de34c52725f4689f347e9988b62a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8dc8e5951fc38b2c93ea648451d3571') in 0.147144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.892455 seconds.
+  path: Assets/Blink/Art/Animals
+  artifactKey: Guid(b0c886b2e10e9bd4898d2be19a19d6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals using Guid(b0c886b2e10e9bd4898d2be19a19d6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44a219ae6158d6ed71d5db3c3d0694e2') in 0.000666 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.974449 seconds.
+  path: Assets/Blink/Art/Animals/Stylized
+  artifactKey: Guid(744c080e7389e3249b7dd2b124b6705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized using Guid(744c080e7389e3249b7dd2b124b6705b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cec7330d37aa98609d5e6048a47590e') in 0.000648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.496358 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals
+  artifactKey: Guid(422b6aede189e2c4d8e87c41b8ef782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals using Guid(422b6aede189e2c4d8e87c41b8ef782f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abbeb3271a1fbdfedefbfe443de1971a') in 0.001110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.248243 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO.unity
+  artifactKey: Guid(2dcd9d045d59ab744bc20f767072587f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO.unity using Guid(2dcd9d045d59ab744bc20f767072587f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3da5e390416b7d863c029cb3db37a49') in 0.000766 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.427173 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO
+  artifactKey: Guid(80fd8fa176fad6a4faf20062e3d772c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO using Guid(80fd8fa176fad6a4faf20062e3d772c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8945a05b56e622bc19cdd90477ae7c') in 0.001409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.055074 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO/LightingData.asset
+  artifactKey: Guid(10788da4b87c0e842a67bd4343452888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/Bear_DEMO/LightingData.asset using Guid(10788da4b87c0e842a67bd4343452888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1a0bb7bb421e4c6b43875069a5e4cae') in 0.835881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.177278 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData
+  artifactKey: Guid(10bce5a3fffd81241b5f339fc036b95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData using Guid(10bce5a3fffd81241b5f339fc036b95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9ca6bd11f3c170aabbfb2e55f6221d') in 0.002031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034163 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimalPostProcessing.asset
+  artifactKey: Guid(676544565bbf7234eac6e7e6c73e7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimalPostProcessing.asset using Guid(676544565bbf7234eac6e7e6c73e7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b40da66fbe2b458aff1ee3ba0d534354') in 0.006872 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.791377 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimationDemo.cs
+  artifactKey: Guid(c2a14d0f354543444a26ffa7d8075571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Demo_Animals/DemoData/AnimationDemo.cs using Guid(c2a14d0f354543444a26ffa7d8075571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5fdb6ca10076d40bc6484c081e1770d') in 0.200774 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001858 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.399 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3401ms)
+		BeginReloadAssembly (484ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (57ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (126ms)
+		EndReloadAssembly (2593ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (436ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (1630ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (44ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (132ms)
+				ProcessInitializeOnLoadAttributes (1261ms)
+				ProcessInitializeOnLoadMethodAttributes (188ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3376 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (71.1 KB). Loaded Objects now: 3845.
+Memory consumption went from 238.4 MB to 238.3 MB.
+Total: 3.645250 ms (FindLiveObjects: 0.266167 ms CreateObjectMapping: 0.079584 ms MarkObjects: 3.185041 ms  DeleteObjects: 0.113208 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 62.590757 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Prefabs
+  artifactKey: Guid(fd1f0b2fba998b740808cbc90d18d0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Prefabs using Guid(fd1f0b2fba998b740808cbc90d18d0ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b926371223f1ee044e9ddb26dff4987') in 0.125032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 434.797930 seconds.
+  path: Assets/Dungeon Floor Traps/Prefabs/PBR/Dungeon_Floor_Trap_Grid.prefab
+  artifactKey: Guid(a5b2c973fbd4bcf49b07ded49a003a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Prefabs/PBR/Dungeon_Floor_Trap_Grid.prefab using Guid(a5b2c973fbd4bcf49b07ded49a003a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1311c654810d1b48b2a0865057fe4c89') in 3.596430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.329057 seconds.
+  path: Assets/Dungeon Floor Traps/Meshes/Dungeon_Floor_Traps.fbx
+  artifactKey: Guid(23cfee973004e6043a4e11eab315fbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Meshes/Dungeon_Floor_Traps.fbx using Guid(23cfee973004e6043a4e11eab315fbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bffe6fb91e51f9915c26ff314f282da') in 0.535684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.456014 seconds.
+  path: Assets/Dungeon Floor Traps/Prefabs/Mobile/Dungeon_Floor_Trap_Grid.prefab
+  artifactKey: Guid(dee7a332df32c9a4f99531ce6d5c277c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Prefabs/Mobile/Dungeon_Floor_Trap_Grid.prefab using Guid(dee7a332df32c9a4f99531ce6d5c277c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25889115ca883ef888395cb16606cc35') in 0.069204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.906868 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Grid_AlbedoTransparency.png
+  artifactKey: Guid(49a1b388e8fbf83428b55da7e37b2478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Grid_AlbedoTransparency.png using Guid(49a1b388e8fbf83428b55da7e37b2478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd437fa5d98357f97108c240810480e4e') in 1.500357 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Grid_MetallicSmoothness.png
+  artifactKey: Guid(31b501d8babc2cb41ba0e8d23833a154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Grid_MetallicSmoothness.png using Guid(31b501d8babc2cb41ba0e8d23833a154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f076b88cfcde18ba9cde5892886681') in 0.023659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000842 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_AO.png
+  artifactKey: Guid(9d1402a6cdb5fbd4ca447b13428b55ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_AO.png using Guid(9d1402a6cdb5fbd4ca447b13428b55ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4a5a7ef47c2b95b359ca6027f058f0') in 0.022939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_Emission.png
+  artifactKey: Guid(3a81b6580e61b4d4dac16fafe284e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_Emission.png using Guid(3a81b6580e61b4d4dac16fafe284e9ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe7f03ae388d122d197e8f036ebd2468') in 0.017880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_MetallicSmoothness.png
+  artifactKey: Guid(1801bc5e74f81054aa7ce3c656fbc1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_MetallicSmoothness.png using Guid(1801bc5e74f81054aa7ce3c656fbc1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7656aec0880ce0bf8f9df8677adc8d12') in 0.017710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Traps_Atlas.png
+  artifactKey: Guid(c8fe74eea86270849b17401b0e561f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Traps_Atlas.png using Guid(c8fe74eea86270849b17401b0e561f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3aabcc1149e029da0ab80adc057ce63') in 0.016131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_Normal.png
+  artifactKey: Guid(0d114a6168ebdf842abc463ccdad9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_Normal.png using Guid(0d114a6168ebdf842abc463ccdad9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c3f80698aae12fd851f0a164f8f4ad9') in 0.025007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_Emission.png
+  artifactKey: Guid(122a38ca0df250b4ab27507da446c460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Star_Emission.png using Guid(122a38ca0df250b4ab27507da446c460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c618f7a5040c25f4ed89f44b25bdeeac') in 0.030888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_AlbedoTransparency.png
+  artifactKey: Guid(516861f7beb9ed54a93c848eb5578e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Textures/Dungeon_Floor_Trap_Round_AlbedoTransparency.png using Guid(516861f7beb9ed54a93c848eb5578e67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdebb6114ffc8904acba5a5c9f7e637') in 0.026096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1350.593825 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_A_(1)_Banner_War_Alone.prefab
+  artifactKey: Guid(32170d0b155a741b88ac034c00943ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_A_(1)_Banner_War_Alone.prefab using Guid(32170d0b155a741b88ac034c00943ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b12d8a0164b7a15d17a30ee776607cf') in 1.316385 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Farol_Light_ON.prefab
+  artifactKey: Guid(7518149b929dd405e8f6224fd017de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Farol_Light_ON.prefab using Guid(7518149b929dd405e8f6224fd017de1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e940c17b3cf8ad0ff1d95b8fdc799615') in 0.270165 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_B_(2)_Banner_War_Wood_Flag_A.prefab
+  artifactKey: Guid(5fba7f16a4e8946b5932e7cf9402e29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_B_(2)_Banner_War_Wood_Flag_A.prefab using Guid(5fba7f16a4e8946b5932e7cf9402e29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7dfce52dee21d5361504f6bd7f89cb') in 1.585843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Fire_Small_FX.prefab
+  artifactKey: Guid(1ccaecc0d7c334429b161837dada6bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Fire_Small_FX.prefab using Guid(1ccaecc0d7c334429b161837dada6bbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47e07d3d5aa8def7944fa9d5d2efd902') in 0.120673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_B_(1)_Banner_War_Alone.prefab
+  artifactKey: Guid(1717adaeec15241ae9106b1f75467c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_B_(1)_Banner_War_Alone.prefab using Guid(1717adaeec15241ae9106b1f75467c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bc95eb5d28e8a3eba5e29217e8170e') in 0.012428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_B_Small_Fire.prefab
+  artifactKey: Guid(8c24f4efc20ae488386410c07ba7ec0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_B_Small_Fire.prefab using Guid(8c24f4efc20ae488386410c07ba7ec0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4824e1bbe219658c05df7b0f701b0074') in 0.234272 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_D_(1)_Banner_War_Flag_B.prefab
+  artifactKey: Guid(86ef33c5dfea945689f2e5fc2ce818c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_D_(1)_Banner_War_Flag_B.prefab using Guid(86ef33c5dfea945689f2e5fc2ce818c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686395b5bd7fd9b0d016d3c3e98ff198') in 0.077410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_B_Big_Fire.prefab
+  artifactKey: Guid(b4e05b86688c5493db1dc78b2b6f3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_B_Big_Fire.prefab using Guid(b4e05b86688c5493db1dc78b2b6f3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '513bb9540dd07ec13b20222729b59097') in 0.021186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Firewood_A.prefab
+  artifactKey: Guid(3a9b7854188d4405280e2aee6b228fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Firewood_A.prefab using Guid(3a9b7854188d4405280e2aee6b228fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93db2f2e06c67bc6e3352fdedefb51fb') in 0.010091 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_E_(2)_Banner_War_E_Flag_A.prefab
+  artifactKey: Guid(a1109c709027244fbb915d87b8a19c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_E_(2)_Banner_War_E_Flag_A.prefab using Guid(a1109c709027244fbb915d87b8a19c50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052eb45707ff3b0b9f717e98c65f9438') in 0.021168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_D_(1)_Banner_War_Alone.prefab
+  artifactKey: Guid(e0b37b90669a24d729ecb3beec2d723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_D_(1)_Banner_War_Alone.prefab using Guid(e0b37b90669a24d729ecb3beec2d723c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d4455df7151fbdf3ca3e43f843a805') in 0.012802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_C_(1)_Banner_War_Alone.prefab
+  artifactKey: Guid(57f2e99527d074d1eb6b5447137b06e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_C_(1)_Banner_War_Alone.prefab using Guid(57f2e99527d074d1eb6b5447137b06e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a76a20687a49afb36f75fbe5612304') in 0.013020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_C_(2)_Banner_War_Wood_Flag_A.prefab
+  artifactKey: Guid(dd916107cca874bdc883a3c715e23da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Banner_C_(2)_Banner_War_Wood_Flag_A.prefab using Guid(dd916107cca874bdc883a3c715e23da5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9edff7e49d3c6d8cb30f8540a9f11bf') in 0.017840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bush_Falling.prefab
+  artifactKey: Guid(4fe9005d9a73f4e00b78859bdfc2e918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bush_Falling.prefab using Guid(4fe9005d9a73f4e00b78859bdfc2e918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31c9900e08e1259cf461a2ce7df54286') in 0.371806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_C_Small_Fire.prefab
+  artifactKey: Guid(bacc70b09c9614d89b194c1335f0f49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Bonfire_C_Small_Fire.prefab using Guid(bacc70b09c9614d89b194c1335f0f49d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74f8a9cb6460fe59e6ada1aa88c25ec') in 0.041110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.298920 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Firewood_B.prefab
+  artifactKey: Guid(dbee1b045b6764160a91237fbee4a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Firewood_B.prefab using Guid(dbee1b045b6764160a91237fbee4a59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ece7550c6545951aec1c4697c45e1cf') in 0.028587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_With_Pillars.prefab
+  artifactKey: Guid(ea83a5d2daeb54283a6a210529165d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_With_Pillars.prefab using Guid(ea83a5d2daeb54283a6a210529165d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eaf5637cd75814e7b435574fdbbe4b3') in 0.027995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Base_and_Grid.prefab
+  artifactKey: Guid(4737e431b3b76429eab7b443065c9441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Base_and_Grid.prefab using Guid(4737e431b3b76429eab7b443065c9441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bfe8df715b06d860058847805c1dee') in 0.041815 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Flag_Style_A.prefab
+  artifactKey: Guid(ba94203b2e8594f02ba99fb53505469e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Flag_Style_A.prefab using Guid(ba94203b2e8594f02ba99fb53505469e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e2d8e43017328be474d3c728350cf4') in 0.023128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Right_Pillar.prefab
+  artifactKey: Guid(0bdb7f5c19acd4cc88f01d7557a1947b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Right_Pillar.prefab using Guid(0bdb7f5c19acd4cc88f01d7557a1947b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b0464f040237c26845a47216c8c431') in 0.014706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Left_Pillar.prefab
+  artifactKey: Guid(d78b690efefa14bdc859bcf353bf8319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Metal_Wall_Left_Pillar.prefab using Guid(d78b690efefa14bdc859bcf353bf8319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771fd7bde4943b29a974344cef034f26') in 0.014051 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Flag_Style_B.prefab
+  artifactKey: Guid(29e9f9b8f7167487a80e5e2008e5a7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Prefab/Flag_Style_B.prefab using Guid(29e9f9b8f7167487a80e5e2008e5a7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5387b27e4cc4434b847d04406239e4e') in 0.028953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.200175 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Materials/Glow_MAT.mat
+  artifactKey: Guid(047412d72ceb642e9be4316cc112ff5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Materials/Glow_MAT.mat using Guid(047412d72ceb642e9be4316cc112ff5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e211b173a86e698f09d09117c5085f4b') in 0.773435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.897641 seconds.
+  path: Assets/RustyBlackShovel/Prefabs/RustyShovel.prefab
+  artifactKey: Guid(beb87db6153f69442821a348e08035ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RustyBlackShovel/Prefabs/RustyShovel.prefab using Guid(beb87db6153f69442821a348e08035ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2859ec5ec78c5bc93e9f2b87ebd400') in 0.078326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 286.857737 seconds.
+  path: Assets/RustyBlackShovel/uploads_files_4070883_Zombie (1).obj
+  artifactKey: Guid(0983d022ad1c642c28c6571083d4d5e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RustyBlackShovel/uploads_files_4070883_Zombie (1).obj using Guid(0983d022ad1c642c28c6571083d4d5e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf6409b34bf90104e1998b400f240d5') in 1.811296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 174.421060 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Albedo4.png
+  artifactKey: Guid(93fb1fce8497ab447a7cc4f7faa1f322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Albedo4.png using Guid(93fb1fce8497ab447a7cc4f7faa1f322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f49058b4a7eeb6c061ed405eb216f5') in 0.273147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Normal.png
+  artifactKey: Guid(d28fabf885861fb48ae21d198e816aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Normal.png using Guid(d28fabf885861fb48ae21d198e816aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5400e0c835480dd59bbb31c52343bd90') in 0.062861 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Emissive.png
+  artifactKey: Guid(ec7b850318e029f4ca2ea8e49339fa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Stylized_Bear_Emissive.png using Guid(ec7b850318e029f4ca2ea8e49339fa84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c554a08b5f0964113a616ed3c54144a9') in 0.012619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.861295 seconds.
+  path: Assets/Dungeon Floor Traps/Prefabs/PBR
+  artifactKey: Guid(7455414c9c7fc564689a83f394763007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Floor Traps/Prefabs/PBR using Guid(7455414c9c7fc564689a83f394763007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a420d158fe9364d6606b0aa34fe5b353') in 0.008806 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.242324 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Fire.png
+  artifactKey: Guid(93e4fbd2e4a664cf48ec6ce2efba467f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Fire.png using Guid(93e4fbd2e4a664cf48ec6ce2efba467f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88cea6975c5a7e20bedd00b974e66ce') in 0.046776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner E - Wood.png
+  artifactKey: Guid(f057046920a1d477bbb80af52b9cff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner E - Wood.png using Guid(f057046920a1d477bbb80af52b9cff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16afbb8707e2ae0c46d7a4cac832565') in 0.019721 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner D - Wood.png
+  artifactKey: Guid(5b7b2219011794c91b3a2d67aec6a9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner D - Wood.png using Guid(5b7b2219011794c91b3a2d67aec6a9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf57da373f158c9e9505d89d36698d7') in 0.015109 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Thorn.png
+  artifactKey: Guid(2157c94dd89334272a79526fc3fa0813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Thorn.png using Guid(2157c94dd89334272a79526fc3fa0813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4900e240e81905585884e1afdc784030') in 0.015844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Photoshop. Red Flag, Model B Square.psd
+  artifactKey: Guid(5fa4647589771449eb69903bd62239bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Photoshop. Red Flag, Model B Square.psd using Guid(5fa4647589771449eb69903bd62239bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d62b463883f721b5ae3b531ceccc9ec') in 0.925276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Medieval_Cook.png
+  artifactKey: Guid(d71aa14a90ea04f19acd3cfd91f9b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Medieval_Cook.png using Guid(d71aa14a90ea04f19acd3cfd91f9b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77822021e32d22408fd1d6854b15702f') in 0.011406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Wall rock and wood.png
+  artifactKey: Guid(28ead191cde9646cc8b252b33e80045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Wall rock and wood.png using Guid(28ead191cde9646cc8b252b33e80045e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6525fcfcdf5eab5d63c3565ac48cdc3f') in 0.010869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner A - Wood.png
+  artifactKey: Guid(4cbe204b587344ff585eec1e35f7518d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner A - Wood.png using Guid(4cbe204b587344ff585eec1e35f7518d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e81774f2794f45af46eaa2c7159d85b8') in 0.013603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Sparkles.png
+  artifactKey: Guid(f8c5cff3504cc477eb9a5a8f5e5d8a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Sparkles.png using Guid(f8c5cff3504cc477eb9a5a8f5e5d8a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be001529d6bf9e55b4fbe21ce16a1c1') in 0.010681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Particle.png
+  artifactKey: Guid(d98a7bcd3b016594baae326f20b26e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Particle.png using Guid(d98a7bcd3b016594baae326f20b26e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f382257f3494d98eea4b4e57e08a8f99') in 0.009681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Trees and Vegetation.png
+  artifactKey: Guid(c031195609d7b4b8f8f0203efa571e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Trees and Vegetation.png using Guid(c031195609d7b4b8f8f0203efa571e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b55fb55533902cde4ff477712ab702b') in 0.014341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner A.png
+  artifactKey: Guid(6f92c6cdbb6234d79be1721287313fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner A.png using Guid(6f92c6cdbb6234d79be1721287313fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3310374e03ca144aeda2ab894df4e5d3') in 0.010557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Medieval_Well.png
+  artifactKey: Guid(71e0800801cfc413da39013c41e674af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Medieval_Well.png using Guid(71e0800801cfc413da39013c41e674af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a13e6b33e074b4b11f85a71b641e6f8b') in 0.010023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Table_Wall_Base_Color.png
+  artifactKey: Guid(8b9abe6f3f62440989c45fc67e9c3971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Table_Wall_Base_Color.png using Guid(8b9abe6f3f62440989c45fc67e9c3971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93acb0fe53a2f1168128ef28e339779') in 0.012782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner D.png
+  artifactKey: Guid(10cdd75f9eefc4d99ba973b841026f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inguz Media Studio/The Beauty Medieval War Banners and PROPS/Textures/Texture, Banner D.png using Guid(10cdd75f9eefc4d99ba973b841026f25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe31e859b45b91656d87e52cae85d8f4') in 0.011799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.526108 seconds.
+  path: Assets/RustyBlackShovel/Textures/SHOVEL_ALBEDO.tga
+  artifactKey: Guid(85831b12854944e458247296585d173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RustyBlackShovel/Textures/SHOVEL_ALBEDO.tga using Guid(85831b12854944e458247296585d173e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fddae02d4e87ed64435ed58e4976ca5') in 0.561674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/RustyBlackShovel/Textures/SHOVEL_NRM.tga
+  artifactKey: Guid(36853bd641fd53d47a7d96b502d38d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RustyBlackShovel/Textures/SHOVEL_NRM.tga using Guid(36853bd641fd53d47a7d96b502d38d96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857829b1f2d330753477cc531db4a73d') in 0.017433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.124482 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Materials
+  artifactKey: Guid(93a4ae1a4491e40d2a7d066642241f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Materials using Guid(93a4ae1a4491e40d2a7d066642241f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09f78aa25752aed096e2c74e5b439d82') in 0.001691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.604934 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Materials/Stylized_Bear_Albedo4.mat
+  artifactKey: Guid(24f54c367aab5426bb1f7dc03767ce46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Textures/Materials/Stylized_Bear_Albedo4.mat using Guid(24f54c367aab5426bb1f7dc03767ce46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32656e411230d3bd543fbd2b70bea3e8') in 0.086308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 410.076850 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Meshes/Bear.fbx
+  artifactKey: Guid(b7822eb5951163b48830b6d9bcbf48b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Meshes/Bear.fbx using Guid(b7822eb5951163b48830b6d9bcbf48b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d2028d83a0b05b9730e8178cf0e98df') in 0.417627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.451005 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Materials/Bear_4.mat
+  artifactKey: Guid(b614f09dade340f4aa841aafe3df42b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Materials/Bear_4.mat using Guid(b614f09dade340f4aa841aafe3df42b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf929f9b138648af58b972b1143e3ef') in 0.515627 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.137961 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Icons/Bear3.png
+  artifactKey: Guid(6054318fc678eef4e97655493b73c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Icons/Bear3.png using Guid(6054318fc678eef4e97655493b73c580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2bb37528f3270c44a6f23938218111') in 0.350485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.315510 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack1.fbx
+  artifactKey: Guid(4988406988758b843b0f0d89fd78ebfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack1.fbx using Guid(4988406988758b843b0f0d89fd78ebfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14fbda5f6354e4e80362f5a53b1850c') in 0.026714 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Sit.fbx
+  artifactKey: Guid(5505d12703e333b499d0c8ed300b5c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Sit.fbx using Guid(5505d12703e333b499d0c8ed300b5c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cab1245fd5a49a58a3aae862bebc503') in 0.011498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_IdleCombat.fbx
+  artifactKey: Guid(aab8b0cfc53d18840993589acb4626fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_IdleCombat.fbx using Guid(aab8b0cfc53d18840993589acb4626fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68729ca90fbdb80ed32b61ce7df13e33') in 0.010729 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Idle.fbx
+  artifactKey: Guid(1e0dfdbe57c95664481b506ea14982ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Idle.fbx using Guid(1e0dfdbe57c95664481b506ea14982ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47551c3f2e4f9ca77b5048df8b228e75') in 0.018139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_WalkForward.fbx
+  artifactKey: Guid(1ab61e70786ce27449cbb57c2fe646ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_WalkForward.fbx using Guid(1ab61e70786ce27449cbb57c2fe646ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da6bbbf3b8ac8246a45104a8756c75f') in 0.034777 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack5.fbx
+  artifactKey: Guid(168542ff75cc8964fb4e265f66c946cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack5.fbx using Guid(168542ff75cc8964fb4e265f66c946cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a096036752d9881f649641761844552c') in 0.026846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Buff.fbx
+  artifactKey: Guid(d614bdd708fc9914da3949d1b0c9cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Buff.fbx using Guid(d614bdd708fc9914da3949d1b0c9cad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2760cf5b5351e167c49d79ca2fbff015') in 0.021570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_StunnedLoop.fbx
+  artifactKey: Guid(b28e5d7f4741b9146a939205f87fd17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_StunnedLoop.fbx using Guid(b28e5d7f4741b9146a939205f87fd17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf4325c07e1e4ad4103d6cf0d0ae791') in 0.021673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_RunForward.fbx
+  artifactKey: Guid(8a572efe21c51fe4aae52075a5bfe620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_RunForward.fbx using Guid(8a572efe21c51fe4aae52075a5bfe620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '420a2e3fe04095e3464c3723f05a85e6') in 0.032581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_GetHitFromFront.fbx
+  artifactKey: Guid(e009b06e60bb7a34ab1c435503be5c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_GetHitFromFront.fbx using Guid(e009b06e60bb7a34ab1c435503be5c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62384d759e0d797981522a16f98deb28') in 0.011992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Jump.fbx
+  artifactKey: Guid(11e6e2757ecd32547a5c9b857db7597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Jump.fbx using Guid(11e6e2757ecd32547a5c9b857db7597c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc2d58b3265a2795f597a6eb0446d0b') in 0.026138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Death.fbx
+  artifactKey: Guid(d4e01fbfd601a224e83e1bafb2b0a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Death.fbx using Guid(d4e01fbfd601a224e83e1bafb2b0a0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90bbf750f905422d75bbefdd5c18e04') in 0.025014 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack3.fbx
+  artifactKey: Guid(786582bf61e76c242b37956059d4c209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Attack3.fbx using Guid(786582bf61e76c242b37956059d4c209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45faed2115355d594fc93a3d67caace3') in 0.013274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Sleep.fbx
+  artifactKey: Guid(9526e1dddf33ebc43a98d410f7e49d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Sleep.fbx using Guid(9526e1dddf33ebc43a98d410f7e49d8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1877835c4e08cdfa05394ebc6f2f21') in 0.021617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_RunBackward.fbx
+  artifactKey: Guid(8c2ee54c140b7a14591bc2e3f39e4980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_RunBackward.fbx using Guid(8c2ee54c140b7a14591bc2e3f39e4980) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744447f7c0bb1ce03798bc1424ad5c71') in 0.016996 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_WalkBackward.fbx
+  artifactKey: Guid(632368da2a0c8904ab1e6031fb4591df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_WalkBackward.fbx using Guid(632368da2a0c8904ab1e6031fb4591df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec02c0bf1b502f584778a54e3668008') in 0.014843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Eat.fbx
+  artifactKey: Guid(7ece14db7c507c64089ee3e86e00ddb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Animations/Bear_Eat.fbx using Guid(7ece14db7c507c64089ee3e86e00ddb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237649da0b7f638f63c7fdfa3d41ac5a') in 0.024870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 36.132222 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear
+  artifactKey: Guid(732a34944c5eb2c43bb0b80fe20f1bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear using Guid(732a34944c5eb2c43bb0b80fe20f1bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb85fa4e76db98ee49595f10c6366e7f') in 0.003832 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.781839 seconds.
+  path: Assets/Blink/Art/Animals/Stylized/Bear/Bear_Meshes
+  artifactKey: Guid(c9b2e892704b61c4f8222d0bd254c08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blink/Art/Animals/Stylized/Bear/Bear_Meshes using Guid(c9b2e892704b61c4f8222d0bd254c08c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4812edf651f9a098a5586f56d5f2dcf') in 0.002197 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002228 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/vyshu/Desktop/Fall2022/LMC2730_final/Woods/Library/PackageCache/com.unity.visualscripting@1.7.8/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.909 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7921ms)
+		BeginReloadAssembly (3342ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (197ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1341ms)
+		EndReloadAssembly (3739ms)
+			LoadAssemblies (1548ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (699ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (2162ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (85ms)
+				SetLoadedEditorAssemblies (3ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (175ms)
+				ProcessInitializeOnLoadAttributes (1657ms)
+				ProcessInitializeOnLoadMethodAttributes (239ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (21ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3376 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (71.9 KB). Loaded Objects now: 3903.
+Memory consumption went from 287.2 MB to 287.2 MB.
+Total: 5.411542 ms (FindLiveObjects: 0.444458 ms CreateObjectMapping: 0.094625 ms MarkObjects: 4.723333 ms  DeleteObjects: 0.147875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
