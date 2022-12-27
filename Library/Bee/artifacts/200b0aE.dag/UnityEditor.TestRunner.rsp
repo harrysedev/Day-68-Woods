@@ -2,7 +2,11 @@
 -out:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.dll"
 -refout:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.ref.dll"
 <<<<<<< HEAD
+<<<<<<< HEAD
 -define:UNITY_2021_3_8
+=======
+-define:UNITY_2021_3_12
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:UNITY_2021_3_12
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -93,6 +97,10 @@
 -define:ENABLE_NETWORK
 -define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -122,6 +130,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+<<<<<<< HEAD
 <<<<<<< HEAD
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
@@ -339,6 +348,8 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.8f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 -r:"/Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2021.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
@@ -553,6 +564,9 @@
 -r:"/Applications/Unity/Hub/Editor/2021.3.12f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.3.12f1/Unity.app/Contents/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 -r:"/Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEditor.TestRunner/Api/Analytics/AnalyticsReporter.cs"

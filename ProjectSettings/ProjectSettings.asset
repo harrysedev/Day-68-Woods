@@ -155,8 +155,12 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
 <<<<<<< HEAD
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.DefaultCompany.woods
+=======
+  applicationIdentifier: {}
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   applicationIdentifier: {}
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -292,6 +296,10 @@ PlayerSettings:
     m_StaticBatching: 0
     m_DynamicBatching: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_BuildTargetShaderSettings: []
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   m_BuildTargetShaderSettings: []
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -347,6 +355,11 @@ PlayerSettings:
     - Oculus
     - OpenVR
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_DefaultShaderChunkSizeInMB: 16
+  m_DefaultShaderChunkCount: 0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -625,6 +638,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   scriptingDefineSymbols:
     Android: UNITY_POST_PROCESSING_STACK_V2
     CloudRendering: UNITY_POST_PROCESSING_STACK_V2
@@ -640,6 +654,9 @@ PlayerSettings:
     Windows Store Apps: UNITY_POST_PROCESSING_STACK_V2
     XboxOne: UNITY_POST_PROCESSING_STACK_V2
     tvOS: UNITY_POST_PROCESSING_STACK_V2
+=======
+  scriptingDefineSymbols: {}
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   scriptingDefineSymbols: {}
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6

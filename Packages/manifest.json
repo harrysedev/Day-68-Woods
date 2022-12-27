@@ -2,6 +2,10 @@
   "dependencies": {
     "com.unity.collab-proxy": "1.17.2",
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    "com.unity.feature.development": "1.0.1",
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     "com.unity.feature.development": "1.0.1",
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6

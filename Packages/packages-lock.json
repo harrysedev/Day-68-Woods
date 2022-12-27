@@ -10,7 +10,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.editorcoroutines": {
       "version": "1.0.0",
       "depth": 1,
@@ -18,6 +21,9 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.ext.nunit": {
       "version": "1.0.6",
@@ -27,7 +33,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.feature.development": {
       "version": "1.0.1",
       "depth": 0,
@@ -42,6 +51,9 @@
         "com.unity.testtools.codecoverage": "1.0.1"
       }
     },
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.ide.rider": {
       "version": "3.0.15",
@@ -76,9 +88,12 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "com.unity.services.core": {
       "version": "1.4.2",
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.performance.profile-analyzer": {
       "version": "1.1.1",
       "depth": 1,
@@ -88,6 +103,9 @@
     },
     "com.unity.services.core": {
       "version": "1.4.3",
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
       "depth": 1,
       "source": "registry",
@@ -99,7 +117,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 2,
@@ -107,6 +128,9 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.test-framework": {
       "version": "1.1.31",
@@ -120,7 +144,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.testtools.codecoverage": {
       "version": "1.0.1",
       "depth": 1,
@@ -131,6 +158,9 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     "com.unity.textmeshpro": {
       "version": "3.0.6",

@@ -383,7 +383,11 @@ namespace UnityEngine.EventSystems
                 go.transform.SetParent(transform);
                 panel.selectableGameObject = go;
 <<<<<<< HEAD
+<<<<<<< HEAD
                 panel.destroyed += () => Destroy(go);
+=======
+                panel.destroyed += () => DestroyImmediate(go);
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
                 panel.destroyed += () => DestroyImmediate(go);
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6

@@ -2,7 +2,11 @@
 -out:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Analytics.dll"
 -refout:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Analytics.ref.dll"
 <<<<<<< HEAD
+<<<<<<< HEAD
 -define:UNITY_2021_3_8
+=======
+-define:UNITY_2021_3_12
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:UNITY_2021_3_12
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -93,6 +97,10 @@
 -define:ENABLE_NETWORK
 -define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -125,6 +133,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+<<<<<<< HEAD
 <<<<<<< HEAD
 -define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
@@ -351,6 +360,8 @@
 "Library/PackageCache/com.unity.services.core@1.4.2/Runtime/Analytics/AnalyticsOptionsExtensions.cs"
 "Library/PackageCache/com.unity.services.core@1.4.2/Runtime/Analytics/AssemblyInfo.cs"
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"/Applications/Unity/Hub/Editor/2021.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
@@ -575,6 +586,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.services.core@1.4.3/Runtime/Analytics/AnalyticsOptionsExtensions.cs"
 "Library/PackageCache/com.unity.services.core@1.4.3/Runtime/Analytics/AssemblyInfo.cs"
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 -langversion:9.0
 
