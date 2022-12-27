@@ -46,6 +46,7 @@ The following packages were updated:
   com.unity.visualscripting from version 1.7.6 to 1.7.8
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 === Tue Nov 15 17:59:06 2022
 
@@ -113,6 +114,8 @@ The following packages were added:
   com.unity.timeline@1.6.4
   com.unity.ugui@1.0.0
   com.unity.visualscripting@1.7.8
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======

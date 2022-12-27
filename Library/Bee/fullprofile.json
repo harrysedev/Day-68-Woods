@@ -11,6 +11,7 @@
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 { "pid": 0, "tid": 1, "ts": 1671031485090609, "dur": 234599, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1671031485090652, "dur": 53164, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1671031485143818, "dur": 171328, "ph": "X", "name": "Run Backend", "args": {} },
@@ -1138,6 +1139,8 @@
 ,{ "pid": 0, "tid": 1, "ts": 1671031485327528, "dur": 918, "ph": "X", "name": "backend_profiler0.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1671031485327367, "dur": 1090, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 { "pid": 0, "tid": 1, "ts": 1668016850916174, "dur": 2726679, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
@@ -2334,6 +2337,9 @@
 ,{ "pid": 0, "tid": 1, "ts": 1668016853648488, "dur": 552, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1668016853645407, "dur": 3642, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6

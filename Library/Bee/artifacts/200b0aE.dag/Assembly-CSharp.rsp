@@ -3,7 +3,11 @@
 -refout:"Library/Bee/artifacts/200b0aE.dag/Assembly-CSharp.ref.dll"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 -define:UNITY_2021_3_8
+=======
+-define:UNITY_2021_3_12
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:UNITY_2021_3_12
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -98,6 +102,10 @@
 -define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -133,6 +141,7 @@
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
 -define:ENABLE_LEGACY_INPUT_MANAGER
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 -define:UNITY_POST_PROCESSING_STACK_V2
@@ -344,6 +353,8 @@
 -r:"/Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2/Runtime/Newtonsoft.Json.dll"
 -r:"/Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.visualscripting@1.7.8/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 -define:CSHARP_7_OR_LATER
@@ -558,6 +569,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -568,6 +582,12 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.ref.dll"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.ref.dll"
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.ref.dll"
@@ -596,6 +616,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Assets/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/MouseLook.cs"
 "Assets/Polytope Studio/Lowpoly Medieval Demos/Environment_Free/PlayerMovement.cs"
 "Assets/Scripts/AudioTrigger.cs"
@@ -615,6 +636,9 @@
 "Assets/Scripts/PlayerShovelController.cs"
 "Assets/Scripts/SceneLoader.cs"
 "Assets/Scripts/ShovelHazardScript.cs"
+=======
+"Assets/movement.cs"
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 "Assets/movement.cs"
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6

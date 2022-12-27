@@ -5,7 +5,11 @@ GraphicsSettings:
   m_ObjectHideFlags: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   serializedVersion: 14
+=======
+  serializedVersion: 13
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   serializedVersion: 13
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -38,7 +42,10 @@ GraphicsSettings:
     m_Shader: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_VideoShadersIncludeMode: 2
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
@@ -53,8 +60,13 @@ GraphicsSettings:
   m_PreloadedShaders: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PreloadShadersBatchTimeLimit: -1
   m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
+    type: 0}
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
     type: 0}
@@ -86,9 +98,14 @@ GraphicsSettings:
   m_LightsUseColorTemperature: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_DefaultRenderingLayerMask: 1
   m_LogWhenShaderIsCompiled: 0
   m_SRPDefaultSettings: {}
+=======
+  m_LogWhenShaderIsCompiled: 0
+  m_AllowEnlightenSupportForUpgradedProject: 0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   m_LogWhenShaderIsCompiled: 0
   m_AllowEnlightenSupportForUpgradedProject: 0

@@ -2,7 +2,11 @@ m_ProjectFiles:
   m_ManifestFileStatus:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_FilePath: /Users/chrismcerlain/Downloads/day 68/Packages/manifest.json
+=======
+    m_FilePath: /Users/harrybae/Desktop/finalUnity/woods/Packages/manifest.json
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     m_FilePath: /Users/harrybae/Desktop/finalUnity/woods/Packages/manifest.json
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -13,6 +17,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       ticks: 638060524340000000
@@ -22,11 +27,16 @@ m_ProjectFiles:
 =======
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
       ticks: 638036125210000000
     m_Hash: 2891438559
   m_LockFileStatus:
     m_FilePath: /Users/harrybae/Desktop/finalUnity/woods/Packages/packages-lock.json
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -36,8 +46,13 @@ m_ProjectFiles:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       ticks: 638066150230000000
     m_Hash: 2231393657
+=======
+      ticks: 638036125240000000
+    m_Hash: 2324796788
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
       ticks: 638036125240000000
     m_Hash: 2324796788
@@ -52,8 +67,13 @@ m_LocalPackages:
   m_LocalFileStatus: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 m_ProjectPath: /Users/chrismcerlain/Downloads/day 68/Packages
 m_EditorVersion: 2021.3.8f1 (b30333d56e81)
+=======
+m_ProjectPath: /Users/harrybae/Desktop/finalUnity/woods/Packages
+m_EditorVersion: 2021.3.12f1 (8af3c3e441b1)
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 m_ProjectPath: /Users/harrybae/Desktop/finalUnity/woods/Packages
 m_EditorVersion: 2021.3.12f1 (8af3c3e441b1)
@@ -70,7 +90,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.collab-proxy@1.17.2
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.collab-proxy@1.17.2
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.collab-proxy@1.17.2
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -147,7 +171,10 @@ m_ResolvedPackages:
     - 1.17.6
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.17.7
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
@@ -165,10 +192,15 @@ m_ResolvedPackages:
     compatible:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.17.1
     - 1.17.2
     - 1.17.6
     - 1.17.7
+=======
+    - 1.17.2
+    - 1.17.6
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     - 1.17.2
     - 1.17.6
@@ -189,7 +221,11 @@ m_ResolvedPackages:
     - 2.1.0-preview.6
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     verified: 1.17.7
+=======
+    verified: 1.17.6
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     verified: 1.17.6
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -203,7 +239,11 @@ m_ResolvedPackages:
   - name: com.unity.services.core
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     version: 1.4.2
+=======
+    version: 1.4.3
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     version: 1.4.3
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -250,8 +290,11 @@ m_ResolvedPackages:
   unityLifecycle:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     version: 1.17.1
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     version: 1.17.2
@@ -342,6 +385,9 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.1
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -353,7 +399,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ide.rider@3.0.15
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.rider@3.0.15
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.rider@3.0.15
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -410,6 +460,7 @@ m_ResolvedPackages:
     - 3.0.16
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 3.0.17
     compatible:
     - 3.0.15
@@ -419,11 +470,16 @@ m_ResolvedPackages:
 =======
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     compatible:
     - 3.0.15
     - 3.0.16
     verified: 3.0.16
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -461,7 +517,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -505,11 +565,17 @@ m_ResolvedPackages:
     - 2.0.16
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 2.0.17
     compatible:
     - 2.0.16
     - 2.0.17
     verified: 2.0.17
+=======
+    compatible:
+    - 2.0.16
+    verified: 2.0.16
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     compatible:
     - 2.0.16
@@ -560,7 +626,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ide.vscode@1.2.5
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.vscode@1.2.5
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ide.vscode@1.2.5
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -577,7 +647,11 @@ m_ResolvedPackages:
   category: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   type: 
+=======
+  type: asset
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   type: asset
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -619,7 +693,11 @@ m_ResolvedPackages:
     capabilities: 7
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   hideInEditor: 1
+=======
+  hideInEditor: 0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   hideInEditor: 0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -645,7 +723,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.test-framework@1.1.31
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.test-framework@1.1.31
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.test-framework@1.1.31
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -703,9 +785,13 @@ m_ResolvedPackages:
     - 1.3.0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.3.1
     - 2.0.1-exp.1
     - 2.0.1-exp.2
+=======
+    - 2.0.1-exp.1
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     - 2.0.1-exp.1
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -720,9 +806,13 @@ m_ResolvedPackages:
     - 1.3.0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.3.1
     - 2.0.1-exp.1
     - 2.0.1-exp.2
+=======
+    - 2.0.1-exp.1
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     - 2.0.1-exp.1
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -776,7 +866,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.textmeshpro@3.0.6
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.textmeshpro@3.0.6
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.textmeshpro@3.0.6
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -793,7 +887,11 @@ m_ResolvedPackages:
   category: Text Rendering
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   type: 
+=======
+  type: asset
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   type: asset
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -939,7 +1037,11 @@ m_ResolvedPackages:
     capabilities: 7
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   hideInEditor: 1
+=======
+  hideInEditor: 0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   hideInEditor: 0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -965,7 +1067,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.timeline@1.6.4
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.timeline@1.6.4
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.timeline@1.6.4
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1062,7 +1168,10 @@ m_ResolvedPackages:
     - 1.7.2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.8.0
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
@@ -1076,7 +1185,10 @@ m_ResolvedPackages:
     - 1.7.2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.8.0
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
@@ -1133,7 +1245,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ugui@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ugui@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ugui@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1203,7 +1319,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.visualscripting@1.7.8
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.visualscripting@1.7.8
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.visualscripting@1.7.8
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1253,10 +1373,15 @@ m_ResolvedPackages:
     - 1.8.0-pre.1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.8.0
     compatible:
     - 1.7.8
     - 1.8.0
+=======
+    compatible:
+    - 1.7.8
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     compatible:
     - 1.7.8
@@ -1308,7 +1433,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.ai@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.ai@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.ai@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1364,7 +1493,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.androidjni@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1419,7 +1552,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.animation@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.animation@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.animation@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1475,7 +1612,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1531,7 +1672,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.audio@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.audio@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.audio@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1587,7 +1732,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.cloth@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.cloth@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.cloth@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1647,7 +1796,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.director@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.director@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.director@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1711,7 +1864,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1768,7 +1925,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.imgui@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.imgui@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.imgui@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1824,7 +1985,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1880,7 +2045,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1936,7 +2105,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.physics@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.physics@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.physics@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -1992,7 +2165,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.physics2d@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2048,7 +2225,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.screencapture@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2108,7 +2289,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.terrain@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.terrain@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.terrain@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2164,7 +2349,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2228,7 +2417,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.tilemap@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2287,7 +2480,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.ui@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.ui@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.ui@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2343,7 +2540,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.uielements@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.uielements@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.uielements@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2415,7 +2616,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.umbra@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.umbra@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.umbra@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2471,7 +2676,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2535,7 +2744,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2591,7 +2804,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2655,7 +2872,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2719,7 +2940,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2783,7 +3008,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2863,7 +3092,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.vehicles@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2923,7 +3156,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.video@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.video@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.video@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -2991,7 +3228,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.vr@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.vr@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.vr@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3061,7 +3302,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.wind@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.wind@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.wind@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3117,7 +3362,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.xr@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.xr@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.xr@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3185,7 +3434,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.subsystems@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3245,7 +3498,11 @@ m_ResolvedPackages:
   source: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3312,7 +3569,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.ext.nunit@1.0.6
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ext.nunit@1.0.6
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.ext.nunit@1.0.6
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3329,7 +3590,11 @@ m_ResolvedPackages:
   category: Libraries
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   type: 
+=======
+  type: asset
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   type: asset
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3370,7 +3635,11 @@ m_ResolvedPackages:
     capabilities: 7
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   hideInEditor: 1
+=======
+  hideInEditor: 0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   hideInEditor: 0
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3391,6 +3660,7 @@ m_ResolvedPackages:
     nextVersion: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - packageId: com.unity.services.core@1.4.2
   testable: 0
   isDirectDependency: 0
@@ -3398,6 +3668,8 @@ m_ResolvedPackages:
   source: 1
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.services.core@1.4.2
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 - packageId: com.unity.editorcoroutines@1.0.0
@@ -3633,6 +3905,9 @@ m_ResolvedPackages:
   source: 1
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.services.core@1.4.3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3673,6 +3948,7 @@ m_ResolvedPackages:
     - 1.6.0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - 1.7.0
     compatible:
     - 1.4.2
@@ -3680,6 +3956,12 @@ m_ResolvedPackages:
     - 1.5.2
     - 1.6.0
     - 1.7.0
+=======
+    compatible:
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
     compatible:
     - 1.4.3
@@ -3719,7 +4001,11 @@ m_ResolvedPackages:
   isAssetStorePackage: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   datePublishedTicks: 637919618520000000
+=======
+  datePublishedTicks: 637959096350000000
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   datePublishedTicks: 637959096350000000
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3733,11 +4019,14 @@ m_ResolvedPackages:
     url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     revision: 3964d1641ebec474aa425853985bccbdb89c2a49
     path: 
   unityLifecycle:
     version: 1.4.2
 =======
+=======
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
     revision: 145c9bbe93bde4784d4641e172be4ca40a3745fc
@@ -3802,6 +4091,9 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.3
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
+=======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
@@ -3813,7 +4105,11 @@ m_ResolvedPackages:
   source: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   resolvedPath: /Users/chrismcerlain/Downloads/day 68/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
+=======
+  resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
+>>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
 =======
   resolvedPath: /Users/harrybae/Desktop/finalUnity/woods/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
 >>>>>>> 45238e2ac382c6a576fc9a833727f5a2ad40b1f6
